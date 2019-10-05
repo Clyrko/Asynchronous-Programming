@@ -1,0 +1,8 @@
+Keys & values need to be wrapped in double quotes
+
+{
+  "id": "1",
+  "name": "Jay A.",
+  "company": "123 Designs",
+  "phone": "555-555-1234"
+}

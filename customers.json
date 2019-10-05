@@ -1,0 +1,22 @@
+[
+  {
+    "id": "1",
+    "name": "Jay A.",
+    "company": "123 Designs",
+    "phone": "555-555-1234"
+  },
+
+  {
+    "id": "2",
+    "name": "John Doe",
+    "company": "Hello Productions",
+    "phone": "543-463-1234"
+  },
+
+  {
+    "id": "3",
+    "name": "Miss Bnks",
+    "company": "T.DOt nation",
+    "phone": "432-634-7375"
+  }
+]
